@@ -13,4 +13,4 @@ The process for Polar data:
 
 The plot output:
 
-![Alt text](Analysis.PNG)
+![Analysis results plot](Analysis.PNG)
